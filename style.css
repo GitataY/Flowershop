@@ -52,6 +52,7 @@ button{
     font-weight: bold;
     font-size: 15px;
     transition: .4s;
+    align-items: center;
 }
 
 button:hover{
